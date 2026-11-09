@@ -51,6 +51,7 @@ This project uses the UCI Student Performance dataset (maths course, `student-ma
    ```
 3. Download `student-mat.csv` from the UCI Student Performance dataset and place it in the project folder.
 4. Open `Student_Performance_Prediction.ipynb` in Jupyter or Kaggle and run all cells.
+5. If running on Colab, upload the dataset and update the file path in the first cell (for example `/content/student/student-mat.csv`).
 
 ## Tools
 
